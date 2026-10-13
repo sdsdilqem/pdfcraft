@@ -1,0 +1,5 @@
+The macOS app icon files assets/app-icon/pdfcraft.icns and assets/app-icon/pdfcraft-1024.png
+show the Adobe Acrobat app icon. It is a trademark of Adobe Inc. and is not open source; it is
+not covered by this repository's MIT OR Apache-2.0 licence. It was added to this fork
+(github.com/sdsdilqem/pdfcraft) for the ArtCraft launcher at the fork owner's decision on
+2026-10-13. The Windows and Linux icons are unchanged and remain the PdfCraft icon.
